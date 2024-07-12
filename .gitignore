@@ -1,20 +1,8 @@
 *.bak
 *.BAK
-*.crf
-*.d
-*.i
-*.o
 *.htm
-*.map
-*.lnp
-*.axf
-*.bin
-*.dep
-*.scvd
-Objects/
-Listings/
-DebugConfig/
-RTE/
-spDiv/net/W5500/W5500Ping
-JLinkLog.txt
-SPI.uvguix.*
+*.log
+*.zip
+Project Logs for Charger600/
+History/
+__Previews/
