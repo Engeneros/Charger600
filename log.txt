@@ -5,5 +5,8 @@
 25.06.2024 19:00  It is necessary to make a current feedback
 30.06.2024 20:00  StepUp convertor. Current limitation when charging the capacitor. Voltage stabilization after charging. Vin = 12V?, Vout =  600V.
 					icharge = 1A5, istab = 500mA (Uin = 12V, in Rload = 100k, C = 187uF, Uout = 600V, tcharge = 5s)
-13.07.2024 1:47		Altium project begin			
+13.07.2024 1:47		Altium project begin
+13.08.2024 13:31	Prj->PSEl
+
+			
 

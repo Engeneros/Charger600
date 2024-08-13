@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\D\Proj\spDiv\Charger600\Charger600.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=BotBot|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=TopTop|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=MulyMulty|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=MultyTop|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=MultyBot|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=TopOverlay|Scope=Board|Minimum=0.00
