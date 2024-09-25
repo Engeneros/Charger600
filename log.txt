@@ -9,6 +9,7 @@
 13.08.2024 13:31	Prj->PSEl
 02.09.2024 14:56    Montage done. 
 	Buggs: 1. R3 to 5Vref (Ground - is wrong )
+25.09.2024 19:04 	The protection is working
 
 			
 
